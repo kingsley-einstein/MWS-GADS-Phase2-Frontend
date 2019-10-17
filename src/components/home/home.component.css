@@ -1,0 +1,11 @@
+mat-toolbar {
+  width: 100%;
+}
+
+a {
+  margin: 8px;
+}
+
+.flex {
+  flex: 1 1 auto;
+}

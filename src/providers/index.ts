@@ -1,0 +1,1 @@
+export { HttpInterceptorProvider } from './httpinterceptor';
